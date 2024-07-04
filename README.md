@@ -36,7 +36,7 @@ Hi, I'm Nimesh Akarshana!
 <br/>
 <summary><b>⚡ Nimesh-Aka's Stats</b></summary>
 <br/>
-<p align="center">
+<p align="left">
 	<a href="https://github.com/Nimesh-Aka">
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Nimesh-Aka&show_icons=true" alt="Nimesh-Aka"><br/>
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nimesh-Aka" alt="Nimesh-Aka">
@@ -47,7 +47,7 @@ Hi, I'm Nimesh Akarshana!
 <summary><b>⚡ Top Languages</b></summary>
 <br/>
 
-<p align="center">
+<p align="left">
 	<a href="https://github.com/Nimesh-Aka">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimesh-Aka&langs_count=8&layout=compact" alt="Nimesh-Aka">
 	</a>
