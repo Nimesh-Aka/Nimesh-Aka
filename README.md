@@ -21,20 +21,24 @@ Hi, I'm Nimesh Akarshana!
 
 <hr>
 
-<pre>
-💻 I am a self taught Full Stack Developer.
-📚 I am pursuing a Computer Engineering degree at the Faculty of Engineering, University of Ruhuna.
-📝 I have a strong interest in Data Science.
-🔭 Working on Deep Learning & Machine Learning.
-🌟 Main languages: Java
-<hr>
-### 💻 GitHub Stats
+- 🔭 I’m currently working on **Rahula College Basketball**
+
+- 🌱 I’m currently learning **Angular, Spring Boot**
+
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **nimeshakarshanarcb@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 <br/>
 <summary><b>⚡ Nimesh-Aka's Stats</b></summary>
 <br/>
 <p align="center">
 	<a href="https://github.com/Nimesh-Aka">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Nimesh-Aka&show_icons=true" alt="Nimesh-Aka">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Nimesh-Aka&show_icons=true" alt="Nimesh-Aka"><br/>
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nimesh-Aka" alt="Nimesh-Aka">
 	</a>
 	<br/>
