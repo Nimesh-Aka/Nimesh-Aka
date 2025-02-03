@@ -21,8 +21,6 @@ Hi, I'm Nimesh Akarshana!
 
 <hr>
 
-- 🔭 I’m currently working on **Rahula College Basketball**
-
 - 🌱 I’m currently learning **Angular, Spring Boot**
 
 - 💬 Ask me about **Java**
