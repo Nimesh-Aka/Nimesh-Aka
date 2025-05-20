@@ -22,21 +22,21 @@
 - 🎓 Computer Engineering Undergraduate
 - 🧠 Experienced in AI/ML & NLP applications
 - 👨‍💻 Full-stack developer with CMJD certification
-- 🌱 Currently learning **Angular** and **Spring Boot**
+- 🌱 Currently learning **Python**
 - 💡 Working on computer vision & cloud-based ML projects
 
 ## 🔗 Connect With Me
 
 - 📫 Email: **nimeshakarshanarcb@gmail.com**
-- 💼 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-profile)
+- 💼 LinkedIn: [your-linkedin-profile](www.linkedin.com/in/nimeshakarshana)
 
 ## 🛠️ Tech Stack
 
 ```
 AI/ML: TensorFlow | PyTorch | Scikit-learn | Computer Vision | NLP
 Backend: Java | Spring Boot | Python | Node.js
-Frontend: React | Angular | JavaScript
-Cloud: AWS | Docker | Kubernetes
+Frontend: React | JavaScript
+Cloud: AWS | Docker 
 ```
 
 ## 📊 GitHub Stats
